@@ -1,2 +1,5 @@
+HEAD
 dwagdiawdgya
+zmieniony tekst
+poprawka
 druga linijka tekstu
